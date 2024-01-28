@@ -65,7 +65,7 @@ endif()
 #elseif(CMAKE_CXX_STANDARD LESS 14)
 #  set(CMAKE_CXX_STANDARD 14)
 #endif()
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 17)
 
 include(GNUInstallDirs)
 
